@@ -1,3 +1,3 @@
 # swift-cs-193p
 
-study together
+study together ：）

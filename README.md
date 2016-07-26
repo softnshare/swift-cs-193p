@@ -1,1 +1,3 @@
-# swift-cp-193p
+# swift-cs-193p
+
+study together
